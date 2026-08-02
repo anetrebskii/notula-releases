@@ -13,7 +13,7 @@ Pick the download that matches your Mac:
 | Mac | File |
 | --- | --- |
 | Apple silicon (M1 and later) | `Notula-<version>-arm64.dmg` |
-| Intel | `Notula-<version>.dmg` |
+| Intel | `Notula-<version>-x64.dmg` |
 
 Open the disk image and drag Notula into Applications.
 
