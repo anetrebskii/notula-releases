@@ -1,6 +1,8 @@
 # Notula
 
-A documentation editor for teams who write in Markdown and keep it in git.
+A WYSIWYG Markdown editor for docs as code. The whole team works on the
+documentation in your git repository, including the people who never open a
+terminal.
 
 ![Notula with a specification open: the document tree on the left, the document with its properties, and a comment thread anchored to the passage it quotes.](shots/hero.webp)
 
