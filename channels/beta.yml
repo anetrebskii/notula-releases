@@ -1,14 +1,14 @@
-version: 1.12.0
+version: 1.15.0
 files:
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.12.0/Notula-Windows.exe
-    sha512: IOIN5ICCqacpyBczzZP3avsiFlppe0t/mLqFA/+1uJYuyhquWOYxO2WBfGZ6QQhnr9yiFShgt+kCgZ65scT+sQ==
-    size: 202717734
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.12.0/Notula-Windows-x64.exe
-    sha512: JXvsy0/F2EN6A9jl4efuIxQbWwNAOZMGkPGUhecnX32YGenbkygzRqre3nn2RmnS+/bhXIpLOLWEVdRUxXyjEg==
-    size: 105367742
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.12.0/Notula-Windows-arm64.exe
-    sha512: 7RqEcpjO1ComgKz3kUzeCpNS+8EPuUv3UskwlXz2qE/G1Mejo6rZu390fhyE9sEVRVOK4ajvxXCo9CTI0EVQfQ==
-    size: 97952946
-path: https://github.com/anetrebskii/notula-releases/releases/download/v1.12.0/Notula-Windows.exe
-sha512: IOIN5ICCqacpyBczzZP3avsiFlppe0t/mLqFA/+1uJYuyhquWOYxO2WBfGZ6QQhnr9yiFShgt+kCgZ65scT+sQ==
-releaseDate: '2026-08-13T05:35:19.938Z'
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.15.0/Notula-Windows.exe
+    sha512: l3TCkyyUALwmN2jgsQk0eGh+7UpEEVOhdp9mRdT/g0rr1zHBKt7mqHnrVmh8OEATaqRG44OWL4KchJFmCnZEcA==
+    size: 205175813
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.15.0/Notula-Windows-x64.exe
+    sha512: U//WCij+nH8psBLKi1kakjVEDyIqtJhZKaBSzT5HXTFkxUxBuKafvBbspCkDCHPtn4w6fkEZt5F6O3W8ga/2pA==
+    size: 106596746
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.15.0/Notula-Windows-arm64.exe
+    sha512: LcWvbb2DwHY/MEJK3JvswyQsO0fmuGMKtEV4T7m+SM7yj+xf/AK96rA0KNyu3KJx75AM5R28m4ZQcncNAx8gyg==
+    size: 99182117
+path: https://github.com/anetrebskii/notula-releases/releases/download/v1.15.0/Notula-Windows.exe
+sha512: l3TCkyyUALwmN2jgsQk0eGh+7UpEEVOhdp9mRdT/g0rr1zHBKt7mqHnrVmh8OEATaqRG44OWL4KchJFmCnZEcA==
+releaseDate: '2026-08-19T05:53:42.293Z'
