@@ -1,17 +1,17 @@
-version: 1.35.0
+version: 1.38.0
 files:
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.35.0/Notula-macOS-x64.zip
-    sha512: wM7qhzeN2tFp6KIj5vYyf9hC9T7kz72FsboFCfhziWYNXAPS+GamaHKSr7SoLF0AcQfVFCaS97RHtUYeMtNk0g==
-    size: 136578976
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.35.0/Notula-macOS-arm64.zip
-    sha512: kO+iXWpqHHKnoC8OYnxI3jyTAVggWv8h0VZbQ4BBGoNEIrTAiO0xo88wTj7Hhl/ahmr7qISsQIjPwuHa3pTs1Q==
-    size: 133018513
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.35.0/Notula-macOS-x64.dmg
-    sha512: +5inly4KjdsWAvOWCGq9OfpyGx2Ys+XSwce+ybFvlZxwFqAjh87iGRgeFrh9/bgbjPrzGTCxwigGGrDpLwv3zg==
-    size: 137160886
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.35.0/Notula-macOS-arm64.dmg
-    sha512: aD3UTgj/6B/EIT1dLyUGxsI9DtX+59aXyQCbmX1l6kKZF4Ed8coP1bF92koMN/oIcrtVAWErFCcGaQRlKsxG3w==
-    size: 133638653
-path: https://github.com/anetrebskii/notula-releases/releases/download/v1.35.0/Notula-macOS-x64.zip
-sha512: wM7qhzeN2tFp6KIj5vYyf9hC9T7kz72FsboFCfhziWYNXAPS+GamaHKSr7SoLF0AcQfVFCaS97RHtUYeMtNk0g==
-releaseDate: '2026-09-25T08:02:36.945Z'
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-macOS-x64.zip
+    sha512: tDWQZXGClp1gP4wzXoKbFCimMftL3bLE06P9BbKni8adOOQAvxTvU13OI/smJTxhz5qPTyJHQuKrXXvbX9tTrA==
+    size: 136581073
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-macOS-arm64.zip
+    sha512: sn3UIhe4Wd4Pw5MidDMeQtlhoZskx77bnMW1IXdmparr0F1TJ2D5OKUx5OjshyiYvHT2cVrcTtjPo5pL6R6WPQ==
+    size: 133020571
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-macOS-x64.dmg
+    sha512: RgKpFQRiYsE5AZiLQm55tPW31wWWRL3CYcYbKcymETwURWKmecv+fY3NQxl/9KXf7leHOS82ocBDg55LtOJRgA==
+    size: 137170220
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-macOS-arm64.dmg
+    sha512: IIillELPTbFTKyR9PrPBUPFccYkDfHsgfIabfh8GIFSDfBEnFod8LYjzKtfsxeKz4LbjF2LjIZAbqZfseC03xQ==
+    size: 133654010
+path: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-macOS-x64.zip
+sha512: tDWQZXGClp1gP4wzXoKbFCimMftL3bLE06P9BbKni8adOOQAvxTvU13OI/smJTxhz5qPTyJHQuKrXXvbX9tTrA==
+releaseDate: '2026-09-25T10:27:34.439Z'
