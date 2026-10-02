@@ -1,14 +1,14 @@
-version: 1.38.0
+version: 1.39.0
 files:
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-Windows.exe
-    sha512: Vk4zbT7AhoT2W1sa1qL5BQbs1jyGyH+n+wobr4syV4/wYnfCofr0x+aCraUluW06hXtL5wmOwbqOegMQvXii4Q==
-    size: 206440071
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-Windows-x64.exe
-    sha512: GKO8OGWcT9rsWXL+PmKJraLKu+VfWMXKIHiQnu+NEFrf6rHS+kZVd9kS47bcUQv81zErQ6GHHzroVCPpdm6TlQ==
-    size: 107236693
-  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-Windows-arm64.exe
-    sha512: P5NiizJ8247L9Fta/eCPvOaEQfHfz4RoUaq1FSFrP3nvtchbjOJJEBHp6hybIQ3Ppp3UGeInsgz6ElGxSq1gNQ==
-    size: 99821980
-path: https://github.com/anetrebskii/notula-releases/releases/download/v1.38.0/Notula-Windows.exe
-sha512: Vk4zbT7AhoT2W1sa1qL5BQbs1jyGyH+n+wobr4syV4/wYnfCofr0x+aCraUluW06hXtL5wmOwbqOegMQvXii4Q==
-releaseDate: '2026-09-25T10:39:54.504Z'
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.39.0/Notula-Windows.exe
+    sha512: xVuRAkjRO1uupMnfrDD3UbUAH0h1sJr11ZP43z9DAnjgDSPUlo8EuN9TzaQ6ps/kWuaZvvP9KqpQIF9U1gcfvA==
+    size: 206441179
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.39.0/Notula-Windows-x64.exe
+    sha512: 5ht19zR8wfnWwQ6CP+ODRsMFP0liFIzdm27WUJe0oGIKERnwnbbYEUG9q6Mhu0FCi+q8Axh84VVkCDXhXGhCZw==
+    size: 107237386
+  - url: https://github.com/anetrebskii/notula-releases/releases/download/v1.39.0/Notula-Windows-arm64.exe
+    sha512: GCKqVDkauXaYQ5S3p7m7GnL9xaD+4A2s+4Anlw2e99WEDa1N5A3R83GjMgh0UTIWe8Ob+zLmlcQVY9iE/iPpxA==
+    size: 99822342
+path: https://github.com/anetrebskii/notula-releases/releases/download/v1.39.0/Notula-Windows.exe
+sha512: xVuRAkjRO1uupMnfrDD3UbUAH0h1sJr11ZP43z9DAnjgDSPUlo8EuN9TzaQ6ps/kWuaZvvP9KqpQIF9U1gcfvA==
+releaseDate: '2026-10-02T11:33:48.511Z'
